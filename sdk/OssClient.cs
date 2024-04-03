@@ -27,6 +27,7 @@ using ICredentials = Aliyun.OSS.Common.Authentication.ICredentials;
 
 namespace Aliyun.OSS
 {
+
     /// <summary>
     /// The OSS's access entry point interface's implementation.
     /// </summary>
